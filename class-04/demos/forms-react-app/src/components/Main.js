@@ -1,5 +1,5 @@
-import { wait } from '@testing-library/dom';
 import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import {Form, Button} from 'react-bootstrap/';
 // import Button from 'react-bootstrap/Button';
 import FormInfo from './FormInfo';
